@@ -2,4 +2,4 @@
 ## aim
 
 output
-![output](india.jpg)
+![output](pic.jpg)
