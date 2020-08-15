@@ -6,6 +6,7 @@ i) Linear search   ii) Binary search
 
 # Description: 
 linear search or sequential search is a method for finding an element within a array.It sequentially checks each element of the array until the match is found.In this process the whole array will be searched.
+
 Binary search is also known as logarithmic search,is a search algorithm that finds the position of the target value within the sorted array.Binary search compares the target value to the middle element of the array.
 
 # Procedure:
