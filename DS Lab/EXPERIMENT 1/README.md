@@ -29,6 +29,8 @@ Output 2(key element = 100): The element 100 is made to match with every element
 ![linearsearch output 1](https://user-images.githubusercontent.com/69143016/90311186-f66f0680-df15-11ea-8c3b-6159c5cc7aec.png)
 ![linear search output 2](https://user-images.githubusercontent.com/69143016/90311187-f66f0680-df15-11ea-81bf-10ae9b4545da.png)
 
+[linear.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078547/linear.txt)
+
 # Procedure:
 ## Binary search by non - recursive function
 Declare an array named "a" of size 10 in the main function.
@@ -58,6 +60,8 @@ Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > eleme
 ![binary search output2](https://user-images.githubusercontent.com/69143016/90311184-f53dd980-df15-11ea-8b34-042d27418df8.png)
 ![binary search output 1](https://user-images.githubusercontent.com/69143016/90311185-f5d67000-df15-11ea-8858-0f63bb83130c.png)
 
+[binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078546/binary.txt)
+
 # Procedure:
 ## Linear search using recursive function
 In the linear search function declare the variables a,element,i,n,index.Which is a user defined function.
@@ -80,6 +84,8 @@ Output 2(key element = 100): The element 100 is made to match with every element
 
 ![recur linear op 2](https://user-images.githubusercontent.com/69143016/90311180-f40cac80-df15-11ea-8c22-fb3d2251c698.png)
 ![recur linear op 1](https://user-images.githubusercontent.com/69143016/90311182-f4a54300-df15-11ea-8125-da496bcd6c10.png)
+
+[recur linear.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078549/recur.linear.txt)
 
 # Procedure:
 ## Binary search using recursive function
@@ -107,6 +113,8 @@ Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > eleme
 ![recur  binary op 3](https://user-images.githubusercontent.com/69143016/90311176-f242e900-df15-11ea-949d-592fb8bccd7d.png)
 ![recur binary op 2](https://user-images.githubusercontent.com/69143016/90311178-f3741600-df15-11ea-83f3-f457dab137ab.png)
 ![recur binary op 1](https://user-images.githubusercontent.com/69143016/90311179-f40cac80-df15-11ea-9c48-1c60c0131e3f.png)
+
+[recur binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078548/recur.binary.txt)
 
 
 
