@@ -1,0 +1,43 @@
+#include<stdio.h>
+int binarysearch(int element,int a[10],int start,int end)
+{
+    int mid = 0;
+    if(start > end)
+    {
+        return -1;
+    }
+    mid = (start + end)/ 2;
+    if(element == a[mid])
+    {
+        return mid;
+    }
+    else
+    {
+        if(a[mid] > element)
+        {
+            return binarysearch(element,a,start,end=mid-1);
+        }
+        else if(a[mid] < element)
+        {
+            return binarysearch(element,a,start=mid+1,end);
+        }
+    }
+    return mid;
+}
+int main()
+{
+    int element,mid,start = 0,end = 9;
+    int a[10] =  {12,61,33,92,36,3,29,98,54,60};
+    printf("key element:");
+    scanf("%d",&element);
+    mid = binarysearch(element,a,0,9);
+    if(mid != -1)
+    {
+           printf("element is found at %d index",mid );
+    }
+    else
+    {
+         printf("element is not found");
+    }
+    return 0;
+}
