@@ -11,10 +11,15 @@ Binary search is also known as logarithmic search,is a search algorithm that fin
 # Procedure:
 ## linear search by non - recursive function
  Declare an array named "a" of size 10 in the main function.
+ 
  Declare the variables i and key element as integers.
+ 
  Scan the value of the key element.
+ 
  By using for loop initialize the value of i as 0 ,iterate the value of i by adding 1 until the value of i reaches 9.
+ 
  By checking the each element using for loop ,if the element is present then print the index of the element to the output.
+ 
  Else print that the element is not present to the output.
 
 # Output:
@@ -34,14 +39,23 @@ Output 2(key element = 100): The element 100 is made to match with every element
 # Procedure:
 ## Binary search by non - recursive function
 Declare an array named "a" of size 10 in the main function.
+
 In binary search we need to sort the elements.
+
 Declare the variables element,mid and initialize the values of i=0 and n=9.
+
 Scan the value of the element.
+
 find the mid value as i + n / 2.
+
 Then there will be three cases.
+
 case 1: if the mid = element return mid value.
+
 case 2: if the mid > element return n = mid - 1.
+
 case 3: if the mid < element return i = mid + 1.
+
 we have to continue the process until the key element is found or search space is exhausted.
 
 # Output:
@@ -65,12 +79,19 @@ Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > eleme
 # Procedure:
 ## Linear search using recursive function
 In the linear search function declare the variables a,element,i,n,index.Which is a user defined function.
+
 check every element in the array until the value of i is less than or equal to n.
+
 if the key element matches with the element in the array then return the value of index to the main function.
+
 Else repeat the procedure by incrementing the value of i by 1 everytime.
+
 if the value of i reaches the value greater than n then return -1 to the main function.
+
 In the main function declare the variables and scan the value of the element.
+
 if the value of index is equal to -1 then print element is not found to the output.
+
 Else print the index of the element to the output.
 
 # Output:
@@ -90,12 +111,19 @@ Output 2(key element = 100): The element 100 is made to match with every element
 # Procedure:
 ## Binary search using recursive function
 In binary search we need to sort the given array.
+
 Consider a key element. Here the starting index is 0 and ending index is 9.
+
 Find the mid value by start + end /2.Compare the keyelement and mid value by using binarysearch function declared.
+
 Then there will be three cases.
-case 1: if the mid = element return mid value.
+
+case 1: if the mid = element return mid value
+.
 case 2: if the mid > element return n = mid - 1.
+
 case 3: if the mid < element return i = mid + 1.
+
 we have to continue the process until the key element is found or search space is exhausted.
 
 # Output:
