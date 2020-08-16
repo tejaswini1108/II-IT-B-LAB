@@ -60,22 +60,17 @@ case 3: if the mid < element return i = mid + 1.
 we have to continue the process until the key element is found or search space is exhausted.
 
 # Output:
-Output 1(key element = 12):Mid value = 0+9/2 = 4.5 . In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 0.
 
-Output 2(key element = 92):As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 3.
+Output 1(key element = 12):Mid value = 0+9/2 = 4.5 . In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 1.
 
-Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 2.
+Output 2(key element = 92):As the mid value = 4.5 .In this case the mid < element then i = mid + 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 8.
+
+Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 3.
+
 
 # Output Obtained:
-![output](binary search output 1.png)
-![output](binary search output 3.png)
-![output](binary search output2.png)
 
-![binary search output 3](https://user-images.githubusercontent.com/69143016/90311183-f53dd980-df15-11ea-92e0-d7609c8251a3.png)
-![binary search output2](https://user-images.githubusercontent.com/69143016/90311184-f53dd980-df15-11ea-8b34-042d27418df8.png)
-![binary search output 1](https://user-images.githubusercontent.com/69143016/90311185-f5d67000-df15-11ea-8858-0f63bb83130c.png)
 
-[binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078546/binary.txt)
 
 # Procedure:
 ## Linear search using recursive function
@@ -128,26 +123,13 @@ case 3: if the mid < element return i = mid + 1.
 we have to continue the process until the key element is found or search space is exhausted.
 
 # Output:
-Output 1(key element = 12):Mid value = 0+9/2 = 4.5 . In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 0.
+Output 1(key element = 12):Mid value = 0+9/2 = 4.5 . In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 1.
 
-Output 2(key element = 92):As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 3.
+Output 2(key element = 92):As the mid value = 4.5 .In this case the mid < element then i = mid + 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 8.
 
-Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 2.
+Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > element then n = mid - 1 and the procedure will continue until the key element matches with the mid position then we will get the index of the key elment as 3.
 
 # Output Obtained:
-![output](recur binary op 1.png)
-![output](recur binary op 2.png)
-![output](recur  binary op 3.png)
-
-![recur  binary op 3](https://user-images.githubusercontent.com/69143016/90311176-f242e900-df15-11ea-949d-592fb8bccd7d.png)
-![recur binary op 2](https://user-images.githubusercontent.com/69143016/90311178-f3741600-df15-11ea-83f3-f457dab137ab.png)
-![recur binary op 1](https://user-images.githubusercontent.com/69143016/90311179-f40cac80-df15-11ea-9c48-1c60c0131e3f.png)
-
-[recur binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078548/recur.binary.txt)
-
-
-
-
 
 
 
