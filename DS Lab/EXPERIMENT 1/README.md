@@ -140,7 +140,7 @@ Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > eleme
 ![recur b op 2](https://user-images.githubusercontent.com/69143016/90331158-17942d80-dfd0-11ea-84d6-ccde417539f8.png)
 ![recur b op 1](https://user-images.githubusercontent.com/69143016/90331159-17942d80-dfd0-11ea-83c9-999928769d22.png)
 
-[recur binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5080348/recur.binary.txt)
+[recur binary n.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5080365/recur.binary.n.txt)
 
 
 
