@@ -17,7 +17,7 @@ Binary search is also known as logarithmic search,is a search algorithm that fin
  
  Scan the value of the key element.
  
- By using for loop initialize the value of i as 0 ,iterate the value of i by adding 1 until the value of i reaches 9.
+ By using for loop initialize the value of i as 0 ,iterate the value of i by adding 1 until the value of i reaches 9 in the linear_search function.
  
  By checking the each element using for loop ,if the element is present then print the index of the element to the output.
  
