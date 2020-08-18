@@ -35,7 +35,8 @@ Output 2(key element = 100): The element 100 is made to match with every element
 ![linearsearch output 1](https://user-images.githubusercontent.com/69143016/90311186-f66f0680-df15-11ea-8c3b-6159c5cc7aec.png)
 ![linear search output 2](https://user-images.githubusercontent.com/69143016/90311187-f66f0680-df15-11ea-81bf-10ae9b4545da.png)
 
-[linear.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5078547/linear.txt)
+[iterative linear.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5091263/iterative.linear.txt)
+
 
 # Procedure:
 ## Binary search by non - recursive function
@@ -74,8 +75,7 @@ Output 3(key element = 33)::As the mid value = 4.5 .In this case the mid > eleme
 ![op 2](https://user-images.githubusercontent.com/69143016/90331160-182cc400-dfd0-11ea-9b8e-ea0b14625888.png)
 ![op 3](https://user-images.githubusercontent.com/69143016/90331161-195df100-dfd0-11ea-9913-3b09dba1c50a.png)
 
-[binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5080352/binary.txt)
-
+[iterative binary.txt](https://github.com/tejaswini1108/II-IT-B-LAB/files/5091262/iterative.binary.txt)
 
 # Procedure:
 ## Linear search using recursive function
